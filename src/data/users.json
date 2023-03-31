@@ -70,5 +70,15 @@
     "telefono": "0123456789",
     "dni": "936859782138618",
     "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "0123456789",
+    "dni": "936859782138618",
+    "direccion": "Calle Inexistente #1617"
   }
+
 ]
