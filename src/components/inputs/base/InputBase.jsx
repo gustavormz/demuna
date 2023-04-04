@@ -1,35 +1,25 @@
-import React from 'react'
+import './styles.css'
 import PropTypes from 'prop-types'
 
-import './styles.css'
-
 const InputBase = ({
-  title,
-  placeholder,
-  value,
-  handleOnChange
+    searchInputHandleOnChange,
+    searchInputValue,
+    searchInputPlaceHolder
 }) => {
-  return (
-    <input
-      onChange={handleOnChange}
-      value={value}
-      className='input-base-root'
-      title={title}
-      placeholder={placeholder}  />
-  )
+    return(
+        <input className='inputbase-root' onChange={searchInputHandleOnChange} value={searchInputValue} placeholder={searchInputPlaceHolder}/>
+    )
 }
 
 InputBase.propTypes = {
-  title: PropTypes.string,
-  placeholder: PropTypes.string,
-  value: PropTypes.string,
-  handleOnChange: PropTypes.func,
+    searchInputHandleOnChange: PropTypes.func,
+    searchInputValue: PropTypes.string,
+    searchInputPlaceHolder: PropTypes.string,
 }
 
 InputBase.defaultProps = {
-  title: '',
-  placeholder: '',
-  value: '',
+    searchInputValue: '',
+    searchInputPlaceHolder: '',
 }
 
 export default InputBase

@@ -5,7 +5,7 @@
     "apellidomaterno": "Hernández",
     "fechanac": "1995-07-15",
     "telefono": "0123456789",
-    "dni": "526056895892559",
+    "dni": "38957209",
     "direccion": "Calle Ficticia #123"
   },
   {
@@ -14,7 +14,7 @@
     "apellidomaterno": "González",
     "fechanac": "1990-10-25",
     "telefono": "0123456789",
-    "dni": "383814315839621",
+    "dni": "93647294",
     "direccion": "Avenida Imaginaria #456"
   },
   {
@@ -23,7 +23,7 @@
     "apellidomaterno": "Pérez",
     "fechanac": "1988-04-07",
     "telefono": "0123456789",
-    "dni": "637461810193846",
+    "dni": "47393758",
     "direccion": "Plaza Irreal #789"
   },
   {
@@ -32,7 +32,7 @@
     "apellidomaterno": "Ramírez",
     "fechanac": "1999-12-18",
     "telefono": "0123456789",
-    "dni": "642203217236300",
+    "dni": "34567890",
     "direccion": "Calle Inexistente #1011"
   },
   {
@@ -41,7 +41,7 @@
     "apellidomaterno": "Herrera",
     "fechanac": "1992-08-29",
     "telefono": "0123456789",
-    "dni": "679454942961985",
+    "dni": "13579246",
     "direccion": "Avenida Inalcanzable #1213"
   },
   {
@@ -50,7 +50,7 @@
     "apellidomaterno": "Díaz",
     "fechanac": "1991-02-01",
     "telefono": "0123456789",
-    "dni": "232676771108371",
+    "dni": "24680135",
     "direccion": "Calle Imaginativa #1415"
   },
   {
@@ -59,7 +59,7 @@
     "apellidomaterno": "García",
     "fechanac": "1985-06-12",
     "telefono": "0123456789",
-    "dni": "936859782138618",
+    "dni": "87654321",
     "direccion": "Calle Inexistente #1617"
   },
   {
@@ -68,7 +68,7 @@
     "apellidomaterno": "López",
     "fechanac": "1997-03-30",
     "telefono": "0123456789",
-    "dni": "936859782138618",
+    "dni": "12345678",
     "direccion": "Calle Inexistente #1617"
   },
   {
@@ -76,8 +76,143 @@
     "apellidopaterno": "Isla",
     "apellidomaterno": "Balarezo",
     "fechanac": "1997-04-22",
-    "telefono": "0123456789",
-    "dni": "936859782138618",
+    "telefono": "986022293",
+    "dni": "70475818",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "20394839392",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "85473929402",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "57589372919384",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "5748392348",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "43624329283",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "9583729138",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "6930283482",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "504927472",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "4829475820",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "293847292",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "4478392948",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "5894888937",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "557838291",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "55594382819",
+    "direccion": "Calle Inexistente #1617"
+  },
+  {
+    "nombres": "Clark",
+    "apellidopaterno": "Isla",
+    "apellidomaterno": "Balarezo",
+    "fechanac": "1997-04-22",
+    "telefono": "986022293",
+    "dni": "5589483843899",
     "direccion": "Calle Inexistente #1617"
   }
 

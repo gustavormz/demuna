@@ -1,4 +1,55 @@
-.div-general {
+/*Track start (1)*/
+/*
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+}*/
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--blue_grey_100);
+    border-radius: 10px;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: var(--blue_grey_200);
+}
+
+/* width and height*/
+::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;    
+}
+/*Track end (1)*/
+
+.div-containerviewusers {
+    width: 100%;
+    height: 100%;
+}
+
+.div-busqueda {
     display: flex;
+    height: 35px;
     gap: 10px;
+}
+
+.div-selectbusqueda {
+    width: 150px;
+    height: 100%;
+}
+
+.div-inputbusqueda {    
+    width: 200px;
+    height: 100%;
+}
+
+.div-tabla-usuarios {
+    margin-top: 10px;
+    overflow-y: auto; /* enable vertical scrolling */
+    overflow-x: auto;
+    max-height: 500px; /* set maximum height for the wrapper */
+    border-bottom: 3px solid var(--blue_grey_500);
+}
+
+.div-texto-numerofilas {
+    margin-top: 5px;
 }
