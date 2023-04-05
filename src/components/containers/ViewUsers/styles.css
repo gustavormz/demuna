@@ -42,6 +42,11 @@
     height: 100%;
 }
 
+.div-buttoncrearusuario{
+    width: 150px;
+    height: 100%;
+}
+
 .div-tabla-usuarios {
     margin-top: 10px;
     overflow-y: auto; /* enable vertical scrolling */

@@ -3,6 +3,7 @@ import SelectOption from '../../inputs/selectoption'
 import InputBase from '../../inputs/base'
 import TableBase from '../../tables/base'
 import TextBase from '../../text/base'
+import ButtonBase from '../../buttons/base'
 import PropTypes from 'prop-types'
 
 const ContainerViewUsers = ({
@@ -13,7 +14,8 @@ const ContainerViewUsers = ({
     searchInputValue,
     searchInputPlaceHolder,
     UsersData,
-    numberOfRowsText
+    numberOfRowsText,
+    buttonbasetexto
 }) => {
     return(
         <div className="div-containerviewusers">
@@ -30,7 +32,11 @@ const ContainerViewUsers = ({
                         searchInputValue={searchInputValue}
                         searchInputPlaceHolder={searchInputPlaceHolder}/>
                 </div>
+                <div className="div-buttoncrearusuario">
+                    <ButtonBase texto={buttonbasetexto}/>
+                </div>
             </div>
+            
             <div className="div-tabla-usuarios">
                 <TableBase UsersData={UsersData}/>
             </div>

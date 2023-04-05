@@ -67,7 +67,10 @@ const ViewUsers = () => {
 
                 UsersData={usersToDisplay}
                 
-                numberOfRowsText={"Mostrando "+usersToDisplay.length+" de "+users.length+" elementos"}/>
+                numberOfRowsText={"Mostrando "+usersToDisplay.length+" de "+users.length+" elementos"}
+                
+                buttonbasetexto={"Nuevo usuario"}/>
+
         </LayoutFullScreen>
     )
 }

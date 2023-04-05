@@ -1,0 +1,39 @@
+.button-base-root {
+    appearance: none;
+
+    width: 100%;
+    height: 100%;
+
+    font-size: var(--font-size_general);
+    font-family: var(--font-family_general);
+    padding: 5px 5px;
+    border: 2px solid var(--blue_grey_500);
+    border-radius: 5px;
+    background: white;
+    color: black;
+
+    /*For let the user set the height or width correctly*/
+    box-sizing:border-box;
+}
+
+.button-base-root:focus {
+    border: 2px solid var(--blue_grey_300) !important;
+    box-shadow: 0 0 5px var(--blue_grey_300) !important;
+    -moz-box-shadow: 0 0 5px var(--blue_grey_300) !important;
+    -webkit-box-shadow: 0 0 5px var(--blue_grey_300) !important;
+    outline-offset: 0px !important;
+    outline: none !important;
+}
+
+.button-base-root:hover {
+    border: 2px solid var(--blue_grey_300) !important;
+    box-shadow: 0 0 5px var(--blue_grey_300) !important;
+    -moz-box-shadow: 0 0 5px var(--blue_grey_300) !important;
+    -webkit-box-shadow: 0 0 5px var(--blue_grey_300) !important;
+    outline-offset: 0px !important;
+    outline: none !important;
+}
+
+.button-base-root:active{
+    transform: scale(0.9);
+}
