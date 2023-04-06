@@ -4,6 +4,9 @@ import InputBase from '../../inputs/base'
 import TableBase from '../../tables/base'
 import TextBase from '../../text/base'
 import ButtonNewUser from '../../buttons/newuser'
+
+import NewUser from '../NewUser'
+
 import PropTypes from 'prop-types'
 
 const ContainerViewUsers = ({
@@ -42,6 +45,9 @@ const ContainerViewUsers = ({
             </div>
             <div className="div-texto-numerofilas">
                 <TextBase texto={numberOfRowsText}/>
+            </div>
+            <div>
+                <NewUser></NewUser>
             </div>
         </div>
     )
