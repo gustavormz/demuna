@@ -3,7 +3,6 @@ import SelectOption from '../../inputs/selectoption'
 import InputBase from '../../inputs/base'
 import TableBase from '../../tables/base'
 import TextBase from '../../text/base'
-import ButtonBase from '../../buttons/base'
 import ButtonNewUser from '../../buttons/newuser'
 import PropTypes from 'prop-types'
 
