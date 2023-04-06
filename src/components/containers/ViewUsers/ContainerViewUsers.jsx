@@ -4,6 +4,7 @@ import InputBase from '../../inputs/base'
 import TableBase from '../../tables/base'
 import TextBase from '../../text/base'
 import ButtonBase from '../../buttons/base'
+import ButtonNewUser from '../../buttons/newuser'
 import PropTypes from 'prop-types'
 
 const ContainerViewUsers = ({
@@ -33,7 +34,7 @@ const ContainerViewUsers = ({
                         searchInputPlaceHolder={searchInputPlaceHolder}/>
                 </div>
                 <div className="div-buttoncrearusuario">
-                    <ButtonBase texto={buttonbasetexto}/>
+                    <ButtonNewUser/>
                 </div>
             </div>
             
